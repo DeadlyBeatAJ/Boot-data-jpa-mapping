@@ -1,0 +1,23 @@
+{
+	"customer":	
+	{
+		  "name":"Akash",
+		  "email":"Deadly@d.com",
+		  "gender":"Male",
+		  "products":
+		[
+			{
+			  "pid":"104",
+			  "productName":"watch",
+			  "quantity":"3",
+			  "price":"7800"
+			},
+			{
+			  "pid":"105",
+			  "productName":"mobile",
+			  "quantity":"2",
+			  "price":"17900"
+			}
+		]
+	}
+}
